@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
 *{
-
     margin: 0; 
     padding: 0;
     box-sizing: border-box;
@@ -17,7 +16,7 @@ body{
 }
 
 .calculator{
-    border: 1px solid #717377;
+    border: 2px solid #717377;
     padding: 20px;
     border-radius: 16px;
     background: transparent;
